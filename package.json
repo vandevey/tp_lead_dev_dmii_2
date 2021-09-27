@@ -1,5 +1,5 @@
 {
-  "name": "My own demo",
+  "name": "my-own-demo",
   "description": "a simple express app for demonstrating testing and code coverage",
   "version": "1.0.0",
   "engines": {
