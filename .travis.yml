@@ -6,5 +6,5 @@ deploy:
   api_key:
     secure: "00da4f37-61fd-4628-96c7-1086cecc3e8e"
   app:
-    master: yv-tp-lead-dev-dmii-staging
-    production: yv-tp-lead-dev-dmii-prod
+    develop: yv-tp-lead-dev-dmii-staging
+    master: yv-tp-lead-dev-dmii-prod
