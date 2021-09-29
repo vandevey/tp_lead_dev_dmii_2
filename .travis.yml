@@ -1,3 +1,11 @@
 language: node_js
 node_js:
   - "8.6.0"
+deploy:
+  provider: heroku
+  api_key:
+    develop: "00da4f37-61fd-4628-96c7-1086cecc3e8e"
+    master: "00da4f37-61fd-4628-96c7-1086cecc3e8e"
+  app:
+    develop: yv-tp-lead-dev-dmii-staging
+    master: yv-tp-lead-dev-dmii-prod
